@@ -8,7 +8,8 @@
 3. [Useful Notes](#useful-notes)
 </details>
 
-## Dictionary <a name="dictionary"></a>
+<details>
+<summary>Dictionary</summary>
 
 - **Variations**: Definition of term 1.
 - **Revisions**: Definition of term 2.
@@ -16,16 +17,21 @@
 - **End-Customers**: Definition of term 3.
 - **Post Acceptance Form**: Definition of term 3.
 - **Tables**: Definition of term 3.
+</details>
 
-## Infrastructure <a name="infrastructure"></a>
+<details>
+<summary>Infrastructure</summary>
 
 [List your organization's projects here]
+</details>
 
-## CI/CD And Branching 
+<details>
+<summary>CI/CD And Branching</summary>
+</details>
 
-## Code Standards 
-
-## 
+<details>
+<summary>Code Standards</summary>
+</details>
 
 <details>
 <summary>Useful Notes</summary>
