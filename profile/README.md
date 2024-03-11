@@ -1,36 +1,32 @@
----
-private: true
----
 
-# Your Organization's Name
-
-Welcome to the official GitHub repository of **Your Organization's Name**!
-
-This repository contains information about our projects, contribution guidelines, and other important details for our members.
+# Total Utility Connections
 
 ## Index
+1. [Dictionary](#dictionary)
+2. [Infrastructure ](#infrastructure)
+3. [Useful Notes](#useful-notes)
+   
+## Dictionary <a name="dictionary"></a>
 
-1. [About Us](#about-us)
-2. [Projects](#projects)
-3. [Contribution Guidelines](#contribution-guidelines)
-4. [Contact Us](#contact-us)
+- **Variations**: Definition of term 1.
+- **Revisions**: Definition of term 2.
+- **Customers**: Definition of term 3.
+- **End-Customers**: Definition of term 3.
+- **Post Acceptance Form**: Definition of term 3.
+- **Tables**: Definition of term 3.
 
-## About Us <a name="about-us"></a>
-
-[Add a brief description of your organization here]
-
-## Projects <a name="projects"></a>
+## Infrastructure <a name="infrastructure"></a>
 
 [List your organization's projects here]
 
-## Contribution Guidelines <a name="contribution-guidelines"></a>
+## CI/CD And Branching 
+
+## Code Standards 
+
+## 
+
+## Useful Notes <a name="useful-notes"></a>
 
 [Provide guidelines for contributing to your projects]
 
-## Contact Us <a name="contact-us"></a>
-
-[Add contact information for your organization]
-
 ---
-
-*Note: This README is only visible to members of the organization.*
