@@ -1,11 +1,13 @@
-
 # Total Utility Connections
 
-## Index
+<details>
+<summary>Index</summary>
+
 1. [Dictionary](#dictionary)
-2. [Infrastructure ](#infrastructure)
+2. [Infrastructure](#infrastructure)
 3. [Useful Notes](#useful-notes)
-   
+</details>
+
 ## Dictionary <a name="dictionary"></a>
 
 - **Variations**: Definition of term 1.
@@ -25,8 +27,8 @@
 
 ## 
 
-## Useful Notes <a name="useful-notes"></a>
+<details>
+<summary>Useful Notes</summary>
 
 [Provide guidelines for contributing to your projects]
-
----
+</details>
