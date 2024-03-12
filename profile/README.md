@@ -38,7 +38,7 @@
 
 ### 12/03/2024 9:10 - To do list and Questions for PAF Form
 
--[ ] Do we want PAF forms to have both versions and variations (regarding the database)
+- [ ] Do we want PAF forms to have both versions and variations (regarding the database)
 
 
 ### 11/03/2024 10:36 - Made the mistake of asking more questions to Phil
