@@ -39,7 +39,15 @@
 ### 12/03/2024 9:10 - To do list and Questions for PAF Form
 
 - [ ] Do we want PAF forms to have both versions and variations (regarding the database)
+- [ ] If variation how do we want to store and identify it within db tables
+- [ ] What do we want the message to be for the customer if they update a field such as CAD plan? e.g. 'this could cause a new variation are you sure you want to continue?'
+- [ ] What fields would cause a variation?
+- [ ] Do we want approve and approve with new variation option?
+- [ ] Do we want the customer to have to request a variation or do we want to 'force' the customer and tell them there is a variation? Do we want the customer to have to approve the variation
+- [ ] Split into different types of variations/Ammendments? (Cost / Design / Design with Cost) (Design Ammendment instead of variation but cost is cost variation?
+- [ ] If a new variation is created, how do we notify the customer? e.g. email saying a new variation for project xxxxx has been created and one of our team members will be in contact
 
+File Uploads should only overwrite a file in azure with a new version if the file has previously been approved
 
 ### 11/03/2024 10:36 - Made the mistake of asking more questions to Phil
 
