@@ -48,6 +48,7 @@
 - [ ] If a new variation is created, how do we notify the customer? e.g. email saying a new variation for project xxxxx has been created and one of our team members will be in contact
 
 File Uploads should only overwrite a file in azure with a new version if the file has previously been approved
+Individual approve or deny for files + status tags for uploaded blob files
 
 ### 11/03/2024 10:36 - Made the mistake of asking more questions to Phil
 
