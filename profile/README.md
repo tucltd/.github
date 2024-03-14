@@ -36,10 +36,14 @@
 <details>
 <summary>Useful Notes</summary>
   
-### 14/03/2024 13:09 - More questions :)
+### 14/03/2024 13:09 - More questions with Mark :)
 Do we need an infrastructure layer for projects that are handled by a contractor?
 Functionality to be able to break a project into phases at a later date? (is the paf form complete by then?)
 Can phases and projects both have over head variations which affect all children of them?
+Need to be able to add phases mid-way through project lifecycle. 
+
+Phase 0/ Infrastrucutre Phase could be a common phase shared amongst all phases (like a parent phase the rest feed off). 
+Mark also introduced the idea of an Enabling Contractor (don't know if this is relevant at all) 
 
 ### 12/03/2024 9:10 - To do list and Questions for PAF Form
 
