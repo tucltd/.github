@@ -35,6 +35,11 @@
 
 <details>
 <summary>Useful Notes</summary>
+  
+### 14/03/2024 13:09 - More questions :)
+Do we need an infrastructure layer for projects that are handled by a contractor?
+Functionality to be able to break a project into phases at a later date? (is the paf form complete by then?)
+Can phases and projects both have over head variations which affect all children of them?
 
 ### 12/03/2024 9:10 - To do list and Questions for PAF Form
 
