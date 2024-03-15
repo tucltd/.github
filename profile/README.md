@@ -35,7 +35,16 @@
 
 <details>
 <summary>Useful Notes</summary>
-  
+
+### 15/03/2024 9:58 - Notes and thoughts on how to maybe bring salvation to the system
+We need an infastructure table - What information would this contain and what does it feed the other phases
+
+Can switch from multi phase site and single phase site at any point
+
+if switched from multi to single, phases need to be 'Abandoned'
+
+Infastructure ha
+
 ### 14/03/2024 13:09 - More questions with Mark :)
 Phase 0/ Infrastrucutre Phase could be a common phase shared amongst all phases (like a parent phase the rest feed off). 
 
