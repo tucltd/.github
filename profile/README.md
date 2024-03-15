@@ -40,6 +40,7 @@
 Phase 0/ Infrastrucutre Phase could be a common phase shared amongst all phases (like a parent phase the rest feed off). 
 
 Do we need an infrastructure layer for projects that are handled by a contractor? If so, Infastructure table?
+If single phase site, infastructure and phase 1 is combined into 1. If multi-phase, infastructure phase and multiple phases. Need to be able to switch to multi phase site later on?
 
 Functionality to be able to break a project into phases at a later date, will they still need a paf form?
 
