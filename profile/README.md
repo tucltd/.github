@@ -37,7 +37,7 @@
 <summary>Useful Notes</summary>
 
 ### 15/03/2024 9:58 - Notes and thoughts on how to maybe bring salvation to the system
-We need an infastructure table - What information would this contain and what does it feed the other phases
+We need an infastructure table - What information would this contain and what does it feed the other phases, it's own acceptance form?
 
 Can switch from multi phase site and single phase site at any point
 
