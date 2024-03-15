@@ -36,14 +36,14 @@
 <details>
 <summary>Useful Notes</summary>
 
-### 15/03/2024 10:56 - To Do List
+### 15/03/2024 10:56 - Jack's To Do List
 - [x] Infastructure table 
 
 - [x] add multiphase bool to project table
-    
-- [ ] Always have 1 phase in a project
 
 - [ ] multiphase yes no in create project
+    
+- [ ] Always have 1 phase in a project
 
 - [ ] Add Phase in projectInfo should not work if set to non multiphase, have a tool tip if hovered to tell user project must be multi phase to add phases
 
