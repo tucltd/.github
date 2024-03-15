@@ -41,9 +41,9 @@
 
 - [x] add multiphase bool to project table
 
-- [ ] multiphase yes no in create project
-    
-- [ ] Always have 1 phase in a project
+- [x] multiphase yes no in create project
+
+- [ ] To be able to change whether project is multiphase or not after its created
 
 - [ ] Add Phase in projectInfo should not work if set to non multiphase, have a tool tip if hovered to tell user project must be multi phase to add phases
 
