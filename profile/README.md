@@ -43,11 +43,13 @@
 
 - [x] multiphase yes no in create project
 
-- [ ] To be able to change whether project is multiphase or not after its created
+- [x] To be able to change whether project is multiphase or not after its created
 
 - [ ] Add Phase in projectInfo should not work if set to non multiphase, have a tool tip if hovered to tell user project must be multi phase to add phases
 
 - [ ] Add 'Infrastructure' to AddProjectDialog and show it in ProjectInfo
+
+- [ ] Display info differently if single phase?
 
 ### 15/03/2024 9:58 - Notes and thoughts on how to maybe bring salvation to the system
 We need an infastructure table - What information would this contain and what does it feed the other phases, it's own acceptance form?
