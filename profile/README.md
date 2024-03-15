@@ -41,7 +41,7 @@ We need an infastructure table - What information would this contain and what do
 
 Can switch from multi phase site and single phase site at any point
 
-if switched from multi to single, phases need to be 'Abandoned'
+if switched from multi to single, phases need to be 'Abandoned'. Boolean in phases table for abandoned?
 
 What information do we need in the infastructure table?
 
