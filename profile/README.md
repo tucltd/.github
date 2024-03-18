@@ -49,7 +49,7 @@
 
 - [x] Complete Infrastructure Repository and Service Layers
 
-- [ ] Add 'Infrastructure' to AddProjectDialog and show it in ProjectInfo
+- [x] Add 'Infrastructure' to AddProjectDialog
 
 - [ ] Display infrastructure in project info
 
