@@ -47,6 +47,8 @@
 
 - [ ] Add Phase in projectInfo should not work if set to non multiphase, have a tool tip if hovered to tell user project must be multi phase to add phases
 
+- [ ] Complete Infrastructure Repository and Service Layers
+
 - [ ] Add 'Infrastructure' to AddProjectDialog and show it in ProjectInfo
 
 - [ ] Display infrastructure in project info
