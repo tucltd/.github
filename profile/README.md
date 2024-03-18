@@ -55,9 +55,9 @@
 
 - [x] Infrastructue Info page Navigation
 
-- [ ] Add service to get phaseId using project number and phase number
+- [x] Add service to get phaseId using project number and phase number
 
-- [ ] Add service to get infrastructure using project number? May have a service that can be re used
+- [x] infrastructure info page fix (gets infrastructure based on projectId)
 
 ### 15/03/2024 9:58 - Notes and thoughts on how to maybe bring salvation to the system
 We need an infastructure table - What information would this contain and what does it feed the other phases, it's own acceptance form?
