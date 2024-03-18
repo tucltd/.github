@@ -59,6 +59,9 @@
 
 - [x] infrastructure info page fix (gets infrastructure based on projectId)
 
+- [ ]  int InfrastructureCustomerId = Customers.FirstOrDefault(c => c.CustomerName == Infrastructure.SelectedCustomerId)?.Id ?? 0; If 0, customer doesnt exist so dont let them create
+
+
 ### 15/03/2024 9:58 - Notes and thoughts on how to maybe bring salvation to the system
 We need an infastructure table - What information would this contain and what does it feed the other phases, it's own acceptance form?
 
