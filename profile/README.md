@@ -53,7 +53,7 @@
 
 - [x] Display infrastructure in project info
 
-- [ ] Infrastructue Info page Navigation
+- [x] Infrastructue Info page Navigation
 
 ### 15/03/2024 9:58 - Notes and thoughts on how to maybe bring salvation to the system
 We need an infastructure table - What information would this contain and what does it feed the other phases, it's own acceptance form?
