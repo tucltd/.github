@@ -45,7 +45,7 @@
 
 - [x] To be able to change whether project is multiphase or not after its created
 
-- [ ] Add Phase in projectInfo should not work if set to non multiphase, have a tool tip if hovered to tell user project must be multi phase to add phases
+- [x] Add Phase in projectInfo should not work if set to non multiphase, have a tool tip if hovered to tell user project must be multi phase to add phases
 
 - [ ] Complete Infrastructure Repository and Service Layers
 
