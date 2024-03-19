@@ -36,6 +36,15 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 19/03/2024 16:45 - Emails
+- [ ] User welcome, tell them their password and tell them to change it
+- [ ] Same as above but for customers
+- [ ] Notify Customers their password reset
+- [ ] Forgot Password function?
+- [ ] Email customer when PAF created
+- [ ] Email Us when they submit PAF - Add selection to who we want on the project to handle it (look at current Add Project system minus tendering engineer. We will need roles for this)
+
+
 ### 19/03/2024 09:06 - Jack's To Do List
 - [x] Customer POV projects table - Everyone can see a project that they are linked to at any stage
 - [x] Customer POV PAF Forms for Infrastructure and Phases - If First Customer, can see all Infrastructure and phases PAF's. Else, only show the parts where they are the end customer
