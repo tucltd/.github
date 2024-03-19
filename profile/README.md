@@ -38,7 +38,7 @@
 
 ### 19/03/2024 09:06 - Jack's To Do List
 - [x] Customer POV projects table - Everyone can see a project that they are linked to at any stage
-- [ ] Customer POV PAF Forms for Infrastructure and Phases - If First Customer, can see all Infrastructure and phases PAF's. Else, only show the parts where they are the end customer
+- [x] Customer POV PAF Forms for Infrastructure and Phases - If First Customer, can see all Infrastructure and phases PAF's. Else, only show the parts where they are the end customer
 
 - [ ] tooltip for add project to explain who and what each customer is?
 
