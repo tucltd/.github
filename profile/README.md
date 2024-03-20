@@ -46,7 +46,7 @@
 
 ### Extra
 - [ ] Users Table gets All Users, we want to get all users without a CustomerId
-- [ ] Check when creating CustomerAccount that the email isnt already in use (use code from creating Users)
+- [x] Check when creating CustomerAccount that the email isnt already in use (use code from creating Users)
 
 
 ### 19/03/2024 09:06 - Jack's To Do List
