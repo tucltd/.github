@@ -39,7 +39,7 @@
 ### 19/03/2024 16:45 - Emails
 - [x] User welcome, tell them their password and tell them to change it
 - [x] Same as above but for customers
-- [ ] Notify Customers their password reset
+- [x] Notify Customers their password reset
 - [ ] Forgot Password function?
 - [ ] Email customer when PAF created
 - [ ] Email Us when they submit PAF - Add selection to who we want on the project to handle it (look at current Add Project system minus tendering engineer. We will need roles for this)
