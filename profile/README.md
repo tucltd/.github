@@ -44,7 +44,9 @@
 - [ ] Email customer when PAF created
 - [ ] Email Us when they submit PAF - Add selection to who we want on the project to handle it (look at current Add Project system minus tendering engineer. We will need roles for this)
 
-- [ ] Extra - Users Table gets All Users, we want to get all users without a CustomerId
+### Extra
+- [ ] Users Table gets All Users, we want to get all users without a CustomerId
+- [ ] Check when creating CustomerAccount that the email isnt already in use (use code from creating Users)
 
 
 ### 19/03/2024 09:06 - Jack's To Do List
