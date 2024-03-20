@@ -37,12 +37,14 @@
 <summary>Useful Notes</summary>
 
 ### 19/03/2024 16:45 - Emails
-- [ ] User welcome, tell them their password and tell them to change it
+- [x] User welcome, tell them their password and tell them to change it
 - [ ] Same as above but for customers
 - [ ] Notify Customers their password reset
 - [ ] Forgot Password function?
 - [ ] Email customer when PAF created
 - [ ] Email Us when they submit PAF - Add selection to who we want on the project to handle it (look at current Add Project system minus tendering engineer. We will need roles for this)
+
+- [ ] Extra - Users Table gets All Users, we want to get all users without a CustomerId
 
 
 ### 19/03/2024 09:06 - Jack's To Do List
