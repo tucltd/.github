@@ -38,7 +38,7 @@
 
 ### 19/03/2024 16:45 - Emails
 - [x] User welcome, tell them their password and tell them to change it
-- [ ] Same as above but for customers
+- [x] Same as above but for customers
 - [ ] Notify Customers their password reset
 - [ ] Forgot Password function?
 - [ ] Email customer when PAF created
