@@ -40,7 +40,8 @@
 - [x] User welcome, tell them their password and tell them to change it
 - [x] Same as above but for customers
 - [x] Notify Customers their password reset
-- [ ] Forgot Password function?
+- [x] Forgot Password function
+- [ ] Tidy Up Forgot Password and make it look nice
 - [ ] Email customer when PAF created
 - [ ] Email Us when they submit PAF - Add selection to who we want on the project to handle it (look at current Add Project system minus tendering engineer. We will need roles for this)
 
