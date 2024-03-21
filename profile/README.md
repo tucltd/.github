@@ -54,7 +54,7 @@
 - [x] Customer POV projects table - Everyone can see a project that they are linked to at any stage
 - [x] Customer POV PAF Forms for Infrastructure and Phases - If First Customer, can see all Infrastructure and phases PAF's. Else, only show the parts where they are the end customer
 - [ ] tooltip for add project to explain who and what each customer is?
-- [ ] Paf form icon needs alignment infrastructure & Phases tables CustomerPOV
+- [x] Paf form icon needs alignment infrastructure & Phases tables CustomerPOV
 
 ### 15/03/2024 10:56 - Jack's To Do List
 - [x] Infastructure table 
