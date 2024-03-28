@@ -75,8 +75,7 @@ Bonus - Make ItAdmin only
 - [x] Tidy Up Forgot Password and make it look nice
 - [ ] Email customer when PAF created
 - [ ] Email Us when they submit PAF - Add selection to who we want on the project to handle it (look at current Add Project system minus tendering engineer. We will need roles for this)
-
-### Extra
+  Extra
 - [x] Users Table gets All Users, we want to get all users without a CustomerId
 - [x] Check when creating CustomerAccount that the email isnt already in use (use code from creating Users)
 
