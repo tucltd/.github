@@ -37,19 +37,28 @@
 <summary>Useful Notes</summary>
 
 ### 28/03/2024 13:47 - Who has permission for each page? (Roles for each page as a whole not individual sections on a page)
-- [ ] Login
-- [ ] Customer Login
-- [ ] Forgot Password
-- [ ] Password Reset
-- [ ] Customer Password Reset
-- [ ] Home
-- [ ] Projects
-- [ ] Project info
-- [ ] Phase info
-- [ ] Customer List
-- [ ] Customer Info
-- [ ] PAF Form Page Users
-- [ ] PAF Form Page Customers
+- [ ] Login - AllowAnonymous
+- [ ] Customer Login - AllowAnonymous
+- [ ] Forgot Password - AllowAnonymous
+- [ ] Portal Forgot Password - AllowAnonymous
+- [ ] Password Reset - AllowAnonymous
+- [ ] Customer Password Reset - AllowAnonymous
+- [ ] Home - Staff
+- [ ] Projects - Staff
+- [ ] Project info - Staff
+- [ ] Phase info - Staff
+- [ ] Infrastructure Info - Staff
+- [ ] Customer List - Staff
+- [ ] Customer Info - Staff
+- [ ] PAF Form Page Users - Staff
+- [ ] PAF Form Page Customers - Customer
+- [ ] Portal Home Page - Customer
+- [ ] Portal Project Info - Customer
+- [ ] Portal Change Password - Customer
+- [ ] Users List - Staff + Who??
+Bonus - Make ItAdmin only
+- [ ] Calendar
+- [ ] Leave Control
 
 
 ### 19/03/2024 16:45 - Emails
