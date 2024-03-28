@@ -36,6 +36,9 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 28/03/2024 - 16:50 - Jack's notes to self
+Find out permissions for individual components on each page, who can and can't use specific buttons or see certain fields.
+Add User allocation in each project, e.g. project coordinators, lead designer. For now just make a dummy email for each role rather than creating people logins for now.
 
 ### 28/03/2024 - 16:32 - Big Confrontation with the Design Team (GONE WRONG!!!)
 We asked Rob about the data we need for Turnkey because we didn't have anything for mains disconnects. Rob had a few thoughts on fields that were missing. We then asked Design (mainly Leah) what she thought about the rest, she sent us the PAIF template email they use at the minute and we're missing quite a bit in comparison. For example they have sections like If there is a substation on site give us this information or if the project is HV or LV.  
@@ -43,7 +46,7 @@ We asked Rob about the data we need for Turnkey because we didn't have anything 
 
 
 ### 28/03/2024 13:47 - Who has permission for each page? (Roles for each page as a whole not individual sections on a page)
-- [x] Login - AllowAnonymous
+- [x] Login - AllowAnonymous 
 - [x] Portal Login - AllowAnonymous
 - [x] Forgot Password - AllowAnonymous
 - [x] Portal Forgot Password - AllowAnonymous
@@ -51,7 +54,7 @@ We asked Rob about the data we need for Turnkey because we didn't have anything 
 - [x] Portal Password Reset - AllowAnonymous
 - [x] Home - Staff
 - [x] Projects - Staff
-- [x] Project info - Staff
+- [x] Project info - Staff 
 - [x] Phase info - Staff
 - [x] Infrastructure Info - Staff
 - [x] Customer List - Staff
