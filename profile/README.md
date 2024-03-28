@@ -36,6 +36,22 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 28/03/2024 13:47 - Who has permission for each page? (Roles for each page as a whole not individual sections on a page)
+- [ ] Login
+- [ ] Customer Login
+- [ ] Forgot Password
+- [ ] Password Reset
+- [ ] Customer Password Reset
+- [ ] Home
+- [ ] Projects
+- [ ] Project info
+- [ ] Phase info
+- [ ] Customer List
+- [ ] Customer Info
+- [ ] PAF Form Page Users
+- [ ] PAF Form Page Customers
+
+
 ### 19/03/2024 16:45 - Emails
 - [x] User welcome, tell them their password and tell them to change it
 - [x] Same as above but for customers
