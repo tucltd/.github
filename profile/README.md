@@ -44,21 +44,21 @@
 - [x] Password Reset - AllowAnonymous
 - [x] Portal Password Reset - AllowAnonymous
 - [x] Home - Staff
-- [ ] Projects - Staff
-- [ ] Project info - Staff
-- [ ] Phase info - Staff
-- [ ] Infrastructure Info - Staff
-- [ ] Customer List - Staff
-- [ ] Customer Info - Staff
-- [ ] PAF Form Page Users - Staff
-- [ ] PAF Form Page Customers - Customer
-- [ ] Portal Home Page - Customer
-- [ ] Portal Project Info - Customer
-- [ ] Portal Change Password - Customer
+- [x] Projects - Staff
+- [x] Project info - Staff
+- [x] Phase info - Staff
+- [x] Infrastructure Info - Staff
+- [x] Customer List - Staff
+- [x] Customer Info - Staff
+- [x] PAF Form Page Users - Staff
+- [x] PAF Form Page Customers - Customer
+- [x] Portal Home Page - Customer
+- [x] Portal Project Info - Customer
+- [x] Portal Change Password - Customer
 - [ ] Users List - Staff + Who??
 Bonus - Make ItAdmin only
-- [ ] Calendar
-- [ ] Leave Control
+- [x] Calendar
+- [x] Leave Control
 
 
 ### 19/03/2024 16:45 - Emails
