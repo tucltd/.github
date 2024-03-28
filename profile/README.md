@@ -37,13 +37,13 @@
 <summary>Useful Notes</summary>
 
 ### 28/03/2024 13:47 - Who has permission for each page? (Roles for each page as a whole not individual sections on a page)
-- [ ] Login - AllowAnonymous
-- [ ] Customer Login - AllowAnonymous
-- [ ] Forgot Password - AllowAnonymous
-- [ ] Portal Forgot Password - AllowAnonymous
-- [ ] Password Reset - AllowAnonymous
-- [ ] Customer Password Reset - AllowAnonymous
-- [ ] Home - Staff
+- [x] Login - AllowAnonymous
+- [x] Portal Login - AllowAnonymous
+- [x] Forgot Password - AllowAnonymous
+- [x] Portal Forgot Password - AllowAnonymous
+- [x] Password Reset - AllowAnonymous
+- [x] Portal Password Reset - AllowAnonymous
+- [x] Home - Staff
 - [ ] Projects - Staff
 - [ ] Project info - Staff
 - [ ] Phase info - Staff
