@@ -44,10 +44,10 @@ What information should be collected in the Infrastructure stage and would any o
 
 ### 03/04/2024 10:01 - Individual component permissions per page
 When I say 'Who' I Mean what Roles/Staff level
-- [ ] Phase info - Who can delete utilities? (deleting doesnt delete from database but we make them think it does)
+- [ ] Phase info - Who can delete utilities? (deleting doesnt delete from database but we make them think it does) Director/ITAdmin
 - [ ] Infrastructure Info - Who can delete utilities? (deleting doesnt delete from database but we make them think it does)
 - [ ] Customer Info - Who can Add Customer Account? (Which the customer can login with, Who can Edit Customer Accounts? (The name and email), Who can reset customer account passwords?
-- [ ] Users List - Who can see the page? Who can make new users? Who can Edit Users? Who can reset Users Passwords?
+- [ ] Users List - Who can see the page? Who can make new users?(IT, HR and Director) Who can Edit Users? Who can reset Users Passwords? (IT,HR, Director)
 
 
 ### 28/03/2024 - 16:50 - Jack's notes to self
