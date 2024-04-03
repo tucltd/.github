@@ -36,6 +36,20 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 03/04/2024 11:47 - Questions about PAIF
+Do we need to include questions which depend on circumstances such as Electric being HV or LV or having a Substation?
+Do we need the option to have custom questions should every possible question be covered based on the information within the project/ optional by clicking on the question?
+Can the project be completed based on the questions/information we are retrieving currently?
+What information should be collected in the Infrastructure stage and would any of this overlap into the phases? (if so shall we not include it in the phase or show the information thats been inputted in the infrastructure in the phase as well)
+
+### 03/04/2024 10:01 - Individual component permissions per page
+When I say 'Who' I Mean what Roles/Staff level
+- [ ] Phase info - Who can delete utilities? (deleting doesnt delete from database but we make them think it does)
+- [ ] Infrastructure Info - Who can delete utilities? (deleting doesnt delete from database but we make them think it does)
+- [ ] Customer Info - Who can Add Customer Account? (Which the customer can login with, Who can Edit Customer Accounts? (The name and email), Who can reset customer account passwords?
+- [ ] Users List - Who can see the page? Who can make new users? Who can Edit Users? Who can reset Users Passwords?
+
+
 ### 28/03/2024 - 16:50 - Jack's notes to self
 Find out permissions for individual components on each page, who can and can't use specific buttons or see certain fields.
 Add User allocation in each project, e.g. project coordinators, lead designer. For now just make a dummy email for each role rather than creating people logins for now.
