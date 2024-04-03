@@ -37,7 +37,7 @@
 <summary>Useful Notes</summary>
 
 ### 03/04/2024 11:47 - Questions about PAIF
-Do we need to include questions which depend on circumstances (if applicable questions) such as Electric being HV or LV or having a Substation?
+Do we need to include questions which depend on circumstances (if applicable questions) such as Electric being HV or LV or having a Substation? (how important is it)
 Do we need the option to have custom questions should every possible question be covered based on the information within the project/ optional by clicking on the question?
 Can the project be completed based on the questions/information we are retrieving currently?
 What information should be collected in the Infrastructure stage and would any of this overlap into the phases? (if so shall we not include it in the phase or show the information thats been inputted in the infrastructure in the phase as well)
