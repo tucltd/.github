@@ -36,6 +36,15 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 04/042024 15:11 - Taylor's Big Ideas
+Asked Taylor about the current set of questions he mentioned that:
+1. There are times custom fields are needed to meet niche project requirements 
+2. With the current PAIF spec would we handle part of the post-acceptance process in the portal and then the rest in email? Is this more confusing than just email? The missing post-acceptance
+questions that Leah gave in her document, are things like if Electric is needed in a High-Rise then we need X (which we currently don't have anything for, this would require changes to create project process and post acceptance form itself)    
+3. A quick fix could be include "critical fields" with a create custom question field that the designers could put together (Critical fields being information which is basically always needed, there is alot of information that is needed sometimes)
+4. Design can make a PAIF template for us hopefully with a flow diagram for some of the logic they use when putting together a PAIF
+Bonus: Also looked at Affinity's portal
+
 ### 04/04/2024 08:35 - Archie's PAFological notes
 Implementing versioning (without the approve deny system)
   - [ ] Version number increase on form submit and set form to submitted
