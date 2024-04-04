@@ -35,6 +35,14 @@
 
 <details>
 <summary>Useful Notes</summary>
+### 04/04/2024 08:35 - Archie's PAFological notes
+Implementing versioning (without the approve deny system)
+  - [ ] Version number increase on form submit and set form to submitted
+  - [ ] Little message about submitting the form (this will notify us) 
+  - [ ] Test that forms with multiple versions can all be accessed from View Versions button 
+  - [ ] Finish PAF view in phases (status and updated fields) 
+  - [ ] Chase up who needs to be email on PAF submission
+  - [ ] Find out about our release timeline and what features need to be in for release?
 
 ### 03/04/2024 11:47 - Questions about PAIF
 Do we need to include questions which depend on circumstances (if applicable questions) such as Electric being HV or LV or having a Substation? (how important is it)
