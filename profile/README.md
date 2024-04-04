@@ -41,7 +41,8 @@ Implementing versioning (without the approve deny system)
   - [ ] Version number increase on form submit and set form to submitted
   - [ ] Little message about submitting the form (this will notify us) 
   - [ ] Test that forms with multiple versions can all be accessed from View Versions button 
-  - [ ] Finish PAF view in phases (status and updated fields) 
+  - [ ] Finish PAF view in phases (status and updated fields)
+  - [ ] Make old versions of Customer PAF read-only for customer too (maybe give a warning that its an outdated version)
   - [ ] Chase up who needs to be email on PAF submission
   - [ ] Find out about our release timeline and what features need to be in for release?
 
