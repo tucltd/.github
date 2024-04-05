@@ -11,17 +11,20 @@
 <details>
 <summary>Dictionary</summary>
 
-- **Variations**: Definition of term 1.
-- **Revisions**: Definition of term 2.
-- **Customers**: Definition of term 3.
-- **End-Customers**: Definition of term 3.
-- **Post Acceptance Form**: Definition of term 3.
-- **Tables**: Definition of term 3.
+- **Variations**: A term given to a change to the project that is outside of the scope of the agreed contracted works.
+- **Revisions**: A change given to a particular page/content
+- **Customers**: A client. Who we sell the project to.
+- **End-Customers**: Sometimes the end customer will be different to the customer/client. The customer/client could be working on behalf of multiple end customers.
+- **Post Acceptance Form**: A form that is used 'Post Acceptance' (i.e after the customer has accepted the contract) that is used to collect the informations that is required by us to complete the project.
+- **Tables**: A page with a table that links to multiple screens/bits of info.
+- **Database Tables**: Tables in SQL
+- **Phases**: Think of them as sub-projects that can have info that is different from other phases
+- **Infrastructure**: a specific phase that doesn't have plots but has infrastucture for the rest of the project (gas pipe and electric cables etc)
 </details>
 
 <details>
 <summary>Infrastructure</summary>
-
+  
 [List your organization's projects here]
 </details>
 
