@@ -47,6 +47,8 @@
 5. Customer POV - instead of saying 'create' for ammendment say 'edit'
 6. Customer has the possibility to change (client)
 7. plot to postals? mpan mprn? Only part a Project Coordinator needs
+8. Leah suggested edit button for our side "just in case" (Don't think Mark will like this one but let's put it in for review)
+9. Address line 2 should be optional 
 
 ### 04/042024 15:11 - Taylor's Big Ideas
 Asked Taylor about the current set of questions he mentioned that:
