@@ -39,6 +39,13 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 12/04/2024 - Testing with users notes
+1. Make ammendment button after submitting paif takes to all projects rather than that specific one
+2. Maybe have astriks or some indentifying for the user that for that section to be all completed they have to fill in the whole section
+3. Form status in PAIF table is showing in progress but in project info its submitted?
+4. If the client and end customer are different do we want to get the customer accounts for both? and then if they are the same we do a check so we dont get them twice
+5. Customer POV - instead of saying 'create' for ammendment say 'edit' 
+
 ### 04/042024 15:11 - Taylor's Big Ideas
 Asked Taylor about the current set of questions he mentioned that:
 1. There are times custom fields are needed to meet niche project requirements 
