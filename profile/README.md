@@ -39,6 +39,23 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 16/04/2024 - Meeting with Rhys and Cath
+Mixed use utility
+Asset value portals - evc? 
+EVC separate to commercial and domestic
+Will soon get rid of connections manager
+Put utilities at the start - owners only show if they select that utility?
+Tell us who created the project
+change the yellow highlight on edit to a nice grey
+End customer can be the same they have to check a box or something
+In customer info have the table say Customer Account instead of just Account
+Send form should pull client and end customer if they are different - If sending to client and end customer, different email to explain theyre both filling it out?
+Emails history / message history
+Have some sort of project status - notifies specific paf sections depending on whats needed next?
+CustomerPOV - Hide the word 'Phases' in project info show site name
+Text standards get sent with send form (proposal drawing & letter they accept)
+Project status - stages with sub stages
+
 ### 12/04/2024 - Testing with users notes
 1. Make ammendment button after submitting paif takes to all projects rather than that specific one
 2. Maybe have astriks or some indentifying for the user that for that section to be all completed they have to fill in the whole section
