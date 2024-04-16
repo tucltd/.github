@@ -39,6 +39,18 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 16/04/2024 - 11:26am - V1 requirements
+- [ ] Mixed Use Utility
+- [ ] End Customer and Utilities at the start of the form, confirm end customer same as client option
+- [ ] Do we want to note who created the project?
+- [ ] Change Yellow highlight colour to grey
+- [ ] Customer Info Table to Say Customer Account instaed of just account
+- [ ] Send form should show client and end customer (do we want a different email template to say both will have access? or do we do it depending on whos checked?)
+- [ ] History of emails?/ incoming emails?
+- [ ] CustomerPOV - Hide the word 'Phases' in project info show site name
+- [ ] Text standards get sent with send form (proposal drawing & letter they accept)
+
+
 ### 16/04/2024 - Meeting with Rhys and Cath
 Mixed use utility
 Asset value portals - evc? 
@@ -55,6 +67,7 @@ Have some sort of project status - notifies specific paf sections depending on w
 CustomerPOV - Hide the word 'Phases' in project info show site name
 Text standards get sent with send form (proposal drawing & letter they accept)
 Project status - stages with sub stages
+
 
 ### 12/04/2024 - Testing with users notes
 1. Make ammendment button after submitting paif takes to all projects rather than that specific one
