@@ -39,17 +39,40 @@
 <details>
 <summary>Useful Notes</summary>
 
+
+
 ### 16/04/2024 - 11:26am - V1 requirements
-- [ ] Mixed Use Utility
-- [ ] End Customer and Utilities at the start of the form, confirm end customer same as client option
-- [ ] Do we want to note who created the project?
-- [ ] Change Yellow highlight colour to grey
-- [ ] Customer Info Table to Say Customer Account instaed of just account
-- [ ] Send form should show client and end customer (do we want a different email template to say both will have access? or do we do it depending on whos checked?)
-- [ ] History of emails?/ incoming emails?
+### Needed Enquiry Types 
+Turnkey 
+Ev 
+Mixed 
+Battery
+Domestic 
+Commercial 
+
+Gas - Taylor 
+Electric - Kyle
+
+- [ ] Remove connections manager 
+- [ ] Make the edit highlight grey 
+- [ ] Button in create new project to say customer and end-customer same 
+- [ ] Rename accounts to customer accounts on Projects page 
+- [ ] Highlight changes betweeen PAIFs 
+- [ ] Highlight changes in email 
+- [ ] Log who created the project
 - [ ] CustomerPOV - Hide the word 'Phases' in project info show site name
 - [ ] Text standards get sent with send form (proposal drawing & letter they accept)
 
+Questions To think about?
+How do we communicate the PAIF document is live so multiple people might change it? Could it be an initial email or a call out box. 
+
+How do we chase this with 
+
+Can we start we have staged data entry, info we need to get started?
+
+AUDITING? Tracking emails 
+
+Next Catch Up on Wednesday 24/04/2024
 
 ### 16/04/2024 - Meeting with Rhys and Cath
 Mixed use utility
