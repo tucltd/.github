@@ -39,7 +39,21 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 10/05/2024 - 12:08pm - Meeting with Cath, Rhys and Kyle
+Add who is the sales person for each project
+Add Status to proposal confirmation
+Have you read and reviewed the proposal and are happy it is correct? if no then show the other questions
+Other notes text box at bottom
+Show project owners on customer perspective for their project
+Different types of water
+Solicitor and landowner for gas as well as electric
+Housing Type & Housing Schedules
 
+Mixed proposal - number plots which have different utilites e.g. 200 plots but only 100 have gas
+
+Later On
+Timeline of project (workflow)
+Additional drawings such as Draft
 
 ### 16/04/2024 - 11:26am - V1 requirements
 ### Needed Enquiry Types 
