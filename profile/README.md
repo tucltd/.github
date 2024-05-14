@@ -39,6 +39,34 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 14/05/2024 - 16:09pm - Question wording
+Add tooltip in customer pov for PAIF Card to explain what it is to customer?
+Add Site name to start if paif form title
+'Your' for each of the paif questions e.g. 'Your Design Details'
+Do we want tooltips for each section to give more info in the paif form?
+full turnkey and commercial gas - some fields wont be required but may be (legal, landowner,)
+Legal contact tooltip to state who we want
+Site Start Date - when they themselves started on site
+First Connection Plot Date - their first connection
+Anticipated Energization Date 
+on add project - when clicking water for utility choose self lay or nav
+Add message at bottom if they query the proposal that their business developent manager will be in contact
+Electric -> Electricity
+Move the 'can you please confirm' to below the master questions
+'Is the Site Boundary Correct?' - Always show this question 
+If the boundary is wrong they need to upload a drawing to show the correct boundaries
+Remove question 'Are the routes correct?'
+Address question - 'Is the Site Address Correct'?
+Is the number of Gas Service connections correct?
+Minimum Call of is one question not individual utility 'Are the minimum call offs acceptable?'
+Only use capital letters for the 3 utilities e.g. Electricity
+Is the gas load correct - only commercial
+Have housing schedule cost question first
+have tooltips for some of the questions e.g. housing schedule (this could make money changes)
+Add in What3Words in add project
+
+
+
 ### 10/05/2024 - 12:08pm - Meeting with Cath, Rhys and Kyle
 Add who is the sales person for each project
 Add Status to proposal confirmation
