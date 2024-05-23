@@ -39,6 +39,16 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 23/05/2024 - 10:50am - Catch up on paif
+commercial is fake everything in domestic - domestic people live there
+
+Paif Component
+portal side for paif component checks isCustomer and passes read only is false
+staff side read only is true
+if making json file set it as embedded resource in the properties
+
+
+
 ### 14/05/2024 - 16:09pm - Question wording
 Add tooltip in customer pov for PAIF Card to explain what it is to customer?
 Add Site name to start if paif form title
