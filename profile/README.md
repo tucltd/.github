@@ -39,6 +39,31 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 29/05/2024 - 10:00am - Work requests with Mark
+Work request has to be allocated only to those who are qualified and the work type e.g. electricty only project cant raise a gas job- May not include just yet
+Looking at the data capture side first
+Current work instruction doesnt say who the operative is (the guy doing the job)
+Work is booked per team, different users should be able to be allocated to a team. 
+When booking the team must check who if any of the team members are qualified
+The work request should go to the person(s) who is qualified for the job within the team
+Test Forms - Must be submitted in a specific format
+Work requests have pdf drawings - the guy on site has to edit the drawing and draw the as laid they need to be able to access the relevant drawings uploaded against
+the project instead of needing to upload a new pdf for each.
+What drawing do they need? where do we store it against the project?
+Notification when a work request is completed - notify relevant person. 
+We want the PC to set up the work request first, then the people on site have to fill it in based on the set up
+10% tolerance on what got laid (under and over)
+Eventually this has to check against the budget
+For some jobs (electricity) people also have to be authorized and not just qualified
+Need to have a status of completion, (3/12 done) 
+Team dashboard? 
+As-Laid drawings could be the same drawing for different sections give them an option same as a previous uploads and then they choose which one, makes the same link to that
+upload
+Have the system look at test values and check if it is between the estimated normal values if not flag it for the completions person and whoever is entering the data
+Do we need to add project status?
+Work request should have a summary based on what has been selected for the job
+Flowchart template in process documents
+
 ### 23/05/2024 - 10:50am - Catch up on paif
 commercial is fake everything in domestic - domestic people live there
 
