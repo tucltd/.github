@@ -47,8 +47,7 @@ Mocked = operative can login see a hard-coded version of everything i.e. it wont
 Can PC and PM both create the work instruction? Both can do it 
 
 - Keep services in existing work request for the time being but that can come up a bit later. 
-- As laid is the key one that could have file same as another 
-- Penultimate page of Operative work instruction flow should be the as-laid file upload 
+- As laid is the key one that could have file same as another - Penultimate page of Operative work instruction flow should be the as-laid file upload 
 - Don't worry about sub-contractors just yet
 - Each installation job must have a specific picture against it
 - Don't make plot ranges or other location info mandantory but it will be one or the other 
