@@ -39,6 +39,22 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 14/06/2024 - 16:05pm - Work Request Notes
+how do we identify different phase cables? identifier of 3x
+are some of the forms dependent on what has been previously selected 
+(use cable test as example) do all of them need the regular cable test?
+change back to 'return to work request'
+'Planned Quantity'
+Actual Quantity
+Reason for difference between Planned and actual quantity
+Want to link values from some jobs to other jobs e.g. the excavated amount
+shows up in the backfill work instruction
+drawings need to go against work request for now until design are fully into
+the system to manage latest
+PC creates req email PM, PM makes instruction email Operative, When operative submits email pc
+Summary of all work instructions with quick navigation to enter the data
+for that job. Save and return
+
 ### 05/06/2024 - 11:00am - More Work Requests with Morekus 
 Goal by the 8th July: Have a mocked version of the operative view ready for demonstrating - with the PM and PC side being developed in parallel allowing us to enable full functionality shortly after.
 
