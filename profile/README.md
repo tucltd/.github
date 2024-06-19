@@ -39,7 +39,39 @@
 <details>
 <summary>Useful Notes</summary>
 
-### 19/06/2024 - 14:11pm - Refresh of current system
+### 19/06/2024 - 16:12pm - Archie's notes of the current system
+**Currently**
+- started on HR concept 
+- vehicles and assets 
+- operations (accreditatoins) 
+
+**Odd Notes**
+- Current system doesnt tell you who it was with and why its with them (we can see its in tendering but not exactly where and who) 
+- Reduce the duplication of data between processes (carry data through) 
+- Audit log for projects 
+- Escalate button (Mark Save Me button) 
+- `Owner and actioner`
+- Reportability 
+- Dividers on risk assessment list?
+- Better hierarchy of information 
+- Work request planner make it bettter for efficeient planning 
+- Convenient form generation and data generatoin (data dog and power bi)
+- Everyone has a KPI that they are working towards, and a team will have a KPI (likely averages of team KPIs) 
+- What gets measured gets managed 
+
+**TASK BASED SYSTEM
+
+WE WANT TO MOVE THINGS AROUND BETWEEN  INDIVIDUALS AND TRACK IT
+**
+
+Infrastructure phase 
+- Logging
+- Notification system 
+- Get away from free text as much as possible 
+
+Solution for Mark's free text issue: Every user gets 3 free typing actions per day otherwise they have to pay for hearts
+
+### 19/06/2024 - 14:11pm - Jack's notes for Refresh of current system
 - Contains user information with sickness, leave, expenses, vehicles and assets, operational accreditations
 - We want to be able to have a workflow status of the project so people have their own tasks they need to complete
 - Task based system which displays who the project/utility mix is with and why it is there (a descriptive stage)
