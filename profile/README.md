@@ -39,6 +39,22 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 19/06/2024 - 14:11pm - Refresh of current system
+- Contains user information with sickness, leave, expenses, vehicles and assets, operational accreditations
+- We want to be able to have a workflow status of the project so people have their own tasks they need to complete
+- Task based system which displays who the project/utility mix is with and why it is there (a descriptive stage)
+- Project should get moved on automatically based on the user's actions rather than the user manually moving it along
+- How do we assign someone who isnt a project owner a task on the project
+- Will still need minimum of admin to be able to control what department/stage the project is in in case someone enters a field wrong and we need to go back
+- Using key dates to cause alerts / emails
+- We want to get alerts / my to do list sorted before moving onto adding proper project workflows
+- Work request calendar cant identify gaps very well or know when is the best time to plan work for specific teams based off location
+- want to be able to pull data out so it is readable and sortable
+- Department/ role specific KPI's - use dates and targets
+- Sub contractor view??
+- What notes are worth as notes and what can be notifcations instead?
+- 
+
 ### 14/06/2024 - 16:05pm - Work Request Notes
 how do we identify different phase cables? identifier of 3x
 are some of the forms dependent on what has been previously selected 
