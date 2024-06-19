@@ -59,10 +59,9 @@
 - Everyone has a KPI that they are working towards, and a team will have a KPI (likely averages of team KPIs) 
 - What gets measured gets managed 
 
-**TASK BASED SYSTEM
+**TASK BASED SYSTEM**
 
-WE WANT TO MOVE THINGS AROUND BETWEEN  INDIVIDUALS AND TRACK IT
-**
+**WE WANT TO MOVE THINGS AROUND BETWEEN  INDIVIDUALS AND TRACK IT**
 
 Infrastructure phase 
 - Logging
