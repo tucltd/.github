@@ -39,6 +39,19 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 20/06/2024 - 08:46 Jarchie's catch-up 
+What is the best way to go about tackling the project? 
+Before we start moving about to other features get more infrastructure in i.e.: 
+- Plot-logging 
+- Multi-phase
+- Notifications
+- More thorough logging
+
+  Could go department by department and create fleshed out flows for them so they can full transition to the new system (if we end up having some data duplication its no worse than the current system).
+  Would this approach encourage buy-in? We could start by fully-fleshing out the operative workflow
+  Could we focus on high-value flows (bits the business is struggling with) like we are at the minute 
+  Do we do "the whole thing"? - Risk of building the wrong system, much longer lead time before the business starts seeing value? Waterfall? 
+
 ### 19/06/2024 - 16:12pm - Archie's notes of the current system
 **Currently**
 - started on HR concept 
