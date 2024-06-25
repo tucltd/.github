@@ -39,6 +39,67 @@
 <details>
 <summary>Useful Notes</summary>
 
+### 25/06/2024 - 12:21 Catch-up with Rath 
+** DILF Features **
+- Send welcome form, we want to send the bdm a copy of the email sent
+- We want to show the projects to the customers even if they haven't paid
+but disable the access to it until it has been paid
+
+Things needed for the DILF 
+- Wording for (I)
+- Wording for Thank you for your acceptance. 
+
+**Quality of life**
+-----------------
+Document previewing 
+Logging 
+Notification system 
+Timeline features (the dominoes wheel so customers can see whats happening)
+Epic CRON system 
+Admin config portal 
+Multi-phase
+Dev local databases
+
+**Priorities**
+Customer Portal - July 2024 Live -June accepted to be backfilled
+Work Instructions - July – Stand Down Day demonstrations - Launch – T.B.C - Aim end of August
+General Staff Intranet - End September
+  HR
+        Employee Information
+        Holiday requests
+        Sickness
+        Expenses/Overtime – Need to speak to VW/CR
+        Vehicle List
+        Equipment List
+        
+Business Management System
+  Company Information
+        Staff Directory 
+        Org Cart
+        Insurances
+        Projects
+        Approved Contractors
+        
+  Calenders   
+        Holiday
+        Meeting Room
+        Work Request
+        Whereabouts    
+        
+Process Documents
+        Departmental Specific
+        iDNO /iGT
+        
+Training Information
+
+Quarter 4
+- Sales / CRM - Ties in with the Customer Portal
+- Tendering & Sales
+- Design
+
+
+
+
 ### 20/06/2024 - 08:46 Jarchie's catch-up 
 What is the best way to go about tackling the project? 
 Before we start moving about to other features get more infrastructure in i.e.: 
