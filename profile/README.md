@@ -45,9 +45,10 @@
 - We want to show the projects to the customers even if they haven't paid
 but disable the access to it until it has been paid
 
-Things needed for the DILF 
+**Things needed for the DILF** 
 - Wording for (I)
-- Wording for Thank you for your acceptance. 
+- Wording for Thank you for your acceptance.
+- Water Questions 
 
 **Quality of life**
 -----------------
