@@ -24,8 +24,14 @@
 
 <details>
 <summary>Infrastructure</summary>
+Current Azure Set-Up (as of 01/07/2024) 
+Key Details: 
+  All hosted on Azure, deployment is through azure automatically generated pipelines found on github. 
+  Our database is managed through migrations, and when merging into any stage a migration is automatically run as part of the program.cs file 
+  Server refers to azure app service, Database refers to an SQL instance
   
-[List your organization's projects here]
+![image](https://github.com/tucltd/.github/assets/157698519/1caa839a-c515-4b34-8dd0-aa9d5d88dd4f)
+
 </details>
 
 <details>
