@@ -32,6 +32,25 @@ Key Details:
   
 ![image](https://github.com/tucltd/.github/assets/157698519/1caa839a-c515-4b34-8dd0-aa9d5d88dd4f)
 
+### Setting up the local database
+1. Go here https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
+2. Click download developer edition 
+3. Install basic version of SQL 
+4. Once installation has completed successfully, in sms go to file > connect object explorer 
+5. Go to server type > browse more options > local > click on your computer 
+6. This should open the local database  
+7. Open a second instance of sms with the azure databases 
+8. Right click DevonSQL > Tasks > Deploy Database to Azure SQL 
+9. server connection click connect:
+* server name = localhost 
+* authentication = windows authentication 
+* And hit connect 
+10. New Database Name = ThursdayLocal (or whatever you like) 
+11. Hit next till it starts saying Exporting database 
+12. Wait exactly 1 minute 53 seconds for it to finish (if it takes any longer shout NIIIIIIIIIEMPH) 
+13. Go back to your first instance of sms with the local db connection, refresh and you should see your new database :)))
+
+
 </details>
 
 <details>
