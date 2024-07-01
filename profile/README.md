@@ -49,6 +49,8 @@ Key Details:
 11. Hit next till it starts saying Exporting database 
 12. Wait exactly 1 minute 53 seconds for it to finish (if it takes any longer shout NIIIIIIIIIEMPH) 
 13. Go back to your first instance of sms with the local db connection, refresh and you should see your new database :)))
+14. Bonus step: Update your appsettings.json with the new connection string
+  ``` "DefaultConnection": "Server=localhost;Database=master;Trusted_Connection=True;" ```
 
 
 </details>
